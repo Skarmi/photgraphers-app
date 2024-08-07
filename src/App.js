@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <div className="location-bar">
           <span className="location-icon">📍</span>
-          <input type="text" placeholder="Search Location" defaultValue="Cuttack, Orrisa, 751024" />
+          <input type="text" placeholder="Search Location" defaultValue="Cuttack, Orrisa, 753012" />
         </div>
         <input type="text" className="search-bar" placeholder="Search Photographers" />
       </header>
